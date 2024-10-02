@@ -1,39 +1,62 @@
 # Shabib Hyder Gazi
 
-## Contact Information
-- **Phone:** 470-430-5041
-- **Email:** sgazi1@student.gsu.edu
-- **LinkedIn:** [linkedin.com/in/shabib-hyder-gazi](https://www.linkedin.com/in/shabib-hyder-gazi/)
+Welcome to my GitHub profile! I am a Computer Science student at Georgia State University with a strong passion for programming, data analysis, and web development. My goal is to contribute to innovative projects that leverage technology for positive change.
 
-## Education
-- **Georgia State University** - Atlanta, GA
-  - *Honors Bachelor of Science in Computer Science*
-  - *Aug 2023 – May 2027*
+## About Me
+
+- 📍 Location: Atlanta, GA
+- 🎓 Bachelor of Science in Computer Science (Honors) - Expected Graduation: May 2027
+- 📈 GPA: 4.19/4.0
+- 🌱 Currently interning as an Energy Analyst at Georgia State University, focusing on sustainability and data analysis.
+
+## Skills
+
+- **Programming Languages**: Python, SQL, JavaScript, HTML/CSS, Git
+- **Frameworks and Libraries**: Flask, NumPy, Pandas, Matplotlib, Beautiful Soup, Tkinter, Bootstrap
+- **Data Structures and Algorithms**
+- **Object-Oriented Programming**
 
 ## Experience
 
+### Energy Analyst Intern
+**Georgia State University** | Sep. 2024 – Present
+- Analyzed campus energy consumption data using Python, Power BI, and Excel.
+- Automated data collection and reporting, integrating with Georgia Power’s rebate programs.
+- Developed interactive dashboards to visualize energy trends and educated stakeholders on sustainable practices.
+
 ### Student Assistant
-- **Georgia State University** - Atlanta, GA
-- *Aug 2023 – Present*
-- Designed, configured, and deployed hand scan systems for secure and efficient entry to dining facilities, improving overall user experience and streamlining access control.
-- Demonstrated strong problem-solving skills when addressing technical issues and collaborating on solutions.
-- Provided comprehensive training sessions to students to promote proper use and troubleshooting of the technology.
+**Georgia State University** | Aug. 2023 – Oct. 2023
+- Managed data operations for over 500 students, ensuring high accuracy in data entry.
+- Troubleshot technical issues related to student information systems, improving system reliability.
 
-### Front-End Developer
-- **Kashaway** - Kashmir, India
-- *March 2020 – May 2020*
-- Responsible for functional consulting of website design and development.
-- Assisted in UI/UX improvement and performance optimization.
+### Front-End Developer Intern
+**Kashaway** | Kashmir, India | Feb. 2020 – Apr. 2020
+- Developed responsive web pages, improving user engagement by 15%.
+- Collaborated with the design team to enhance UI/UX of the web application.
 
-### Social Media Manager
-- **Kashaway** - Kashmir, India
-- *May 2020 – Sep 2020*
-- Worked closely with the marketing team to develop social media campaigns that helped achieve corporate marketing goals.
-- Developed monthly reports on emerging social media trends submitted to the management and executive teams.
-- Monitored the company’s social media accounts and engaged constructively with users.
+## Projects
 
-### Student Researcher
-- **Indian Red Cross Society** - Kashmir, India
-- *Oct 2021 – Dec 2021*
-- Conducted academic research for the Indian Red Cross Society on the formation and work conducted by the organization in Kashmir.
-- The research serves as a basis to create awareness among local youth and promote community engagement.
+### [CentWise](https://github.com/shabibhyder/CentWise)
+A web application that enables automatic investment in penny stocks through user transactions. Key features include:
+- Automatic transfer of spare change to a separate investment wallet.
+- Secure backend logic for managing user accounts and transactions.
+
+### [Flavor Finder](https://github.com/shabibhyder/FlavorFinder)
+A dynamic Flask app using the Edamam API that allows users to find recipes based on given ingredients. Key features include:
+- Secure user authentication and data protection.
+- Responsive layout with modern typography.
+
+### [Ane-Lexia](https://github.com/shabibhyder/Ane-Lexia)
+A web app designed for dyslexic users that uses OCR to convert handwritten text. Key features include:
+- Specialized dyslexia-friendly fonts for enhanced readability.
+
+## Awards
+- Achieved a 4.0+ GPA, earning President’s List honors at Georgia State University.
+- Recipient of the 100% Campus Atlanta Scholarship for the duration of undergraduate studies.
+
+## Contact
+Feel free to reach out to me through my email: [sgazi1@student.gsu.edu](mailto:sgazi1@student.gsu.edu) or connect with me on [LinkedIn](https://linkedin.com/in/shabibgazi).
+
+---
+
+Thank you for visiting my profile!
